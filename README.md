@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A third-year undergraduate student participating in a collaborative software engineering program between NJIT and UO, two universities. 😃
+I'm a third-year undergraduate student participating in a collaborative software engineering program between NJIT and UO, two universities. 😃
