@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I'm an undergraduate student enrolled in a collaborative software engineering program between NJIT and UO. 😃
 
+### Resume (CV)
+
+* [Chinese](https://raw.githubusercontent.com/rocky-d/rocky-d/refs/heads/master/%E6%9D%9C%E8%B1%AA%E5%A4%A9%E7%AE%80%E5%8E%8620241017.pdf)
+
 ### Online Judge
 
 * [acwing](https://www.acwing.com): [rocky_d](https://www.acwing.com/user/myspace/index/464613)
