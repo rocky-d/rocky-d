@@ -19,7 +19,7 @@ I'm an undergraduate student enrolled in a collaborative software engineering pr
 
 ### Resume (CV)
 
-* [Chinese](https://raw.githubusercontent.com/rocky-d/rocky-d/e782472b561441c68d214322ffcaf219368db95f/%E6%9D%9C%E8%B1%AA%E5%A4%A9%E7%AE%80%E5%8E%8620241024.pdf)
+* [Chinese](https://github.com/rocky-d/rocky-d/blob/master/%E6%9D%9C%E8%B1%AA%E5%A4%A9%E7%AE%80%E5%8E%8620241024.pdf)
 
 ### Online Judge
 
